@@ -43,5 +43,5 @@
 [^4]:Markdown官方文档教程：https://markdown.com.cn/basic-syntax/links.html  
 
 
-[a]: /self_study/diary/README.md
-[b]: /self_study/issue/REAMDE.md
+[a]: /self_study/diary/
+[b]: /self_study/issue/
