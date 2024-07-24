@@ -42,4 +42,4 @@
 [^2]:教程来自CSDN的mukes老师：https://blog.csdn.net/mukes/article/details/115693833  
 [^3]:下载网址：https://code.visualstudio.com/Download  
 [^4]:Markdown官方文档教程：https://markdown.com.cn/basic-syntax/links.html  
-[^5]:文档链接:https://github.github.com/gfm/
+[^5]:文档链接:https://gfm.docschina.org/zh-hans/
