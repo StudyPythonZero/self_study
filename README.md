@@ -40,7 +40,7 @@
 [^1]:阿里镜像：https://registry.npmmirror.com/binary.html?path=git-for-windows/ 
 [^2]:教程来自CSDN的mukes老师：https://blog.csdn.net/mukes/article/details/115693833  
 [^3]:下载网址：https://code.visualstudio.com/Download  
-[^4]:b站教程：https://www.bilibili.com/video/BV1eJ4m157kC?p=1&vd_source=d74b6ce21dd697e1a34794d5fbcf5e01 
+[^4]:b站教程：https://www.bilibili.com/video/BV1eJ4m157kC?p=1&vd_source=d74b6ce21dd697e1a34794d5fbcf5e01  
 Markdown官方文档教程：https://markdown.com.cn/basic-syntax/links.html  
 
 
